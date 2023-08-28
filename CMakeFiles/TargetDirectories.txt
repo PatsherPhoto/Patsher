@@ -1,0 +1,2 @@
+/root/Desktop/patsher/CMakeFiles/edit_cache.dir
+/root/Desktop/patsher/CMakeFiles/rebuild_cache.dir
